@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "smfCg1vur5A=",
+  "success": true,
+  "projectFilePath": "D:\\Pruebas\\PluginAmmo\\PluginAmmo\\PluginAmmo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lusue\\.nuget\\packages\\exmod.exiled\\9.2.1\\exmod.exiled.9.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
